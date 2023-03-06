@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abmohiz01
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Machine learning with python
-- 💞️ I’m looking to collaborate on ...Python and database learning
+- 👋 Hi, I’m @abmohiz01.
+- 👀 I’m interested in ...Coding.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on ...Python and Database learning.
 - 📫 How to reach me ...abmohiz22@gmail.com
 
 <!---
